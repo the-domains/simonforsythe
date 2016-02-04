@@ -1,7 +1,7 @@
 name: simonforsythe
 favicon: null
-layout_spectrum: 0.6611171
-typography_spectrum: 0.4237379
+layout_spectrum: 1
+typography_spectrum: 0.64104
 title: Confessions Of An Uber Pastor
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#E91F4B'
   brandStrength: 0.8641245
   lightness: 0.7840809
-  saturation: 0.04184186
-  rhythmicContrast: 0.3751293
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
