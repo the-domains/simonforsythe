@@ -14,7 +14,7 @@ collections:
       number: 10
 color:
   saturation: 1
-  brandStrength: 0.8641245
+  brandStrength: 0.04384328
   lightness: 1
   brandColors:
     - '#FFFFFF'
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: simonforsythe
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.64104
+typography_spectrum: 0
 layout_spectrum: 0.5690299
